@@ -1,0 +1,6 @@
+Her er teksten med små bogstaver og ctrl+s for at gemme.
+
+Nu skal vi have GitHub til at forstå sit eget lokale arbejdsområde
+og det er med kommandoen Git
+
+Der sker flere ting efter at have indtastet handlingen
